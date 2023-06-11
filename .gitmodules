@@ -1,0 +1,6 @@
+[submodule "qr-code-component"]
+	path = qr-code-component
+	url = https://github.com/drangam9/qr-code-component
+[submodule "results-summary-component"]
+	path = results-summary-component
+	url = https://github.com/drangam9/results-summary-component
