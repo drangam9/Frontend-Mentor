@@ -4,3 +4,6 @@
 [submodule "results-summary-component"]
 	path = results-summary-component
 	url = https://github.com/drangam9/results-summary-component
+[submodule "product-preview-card-component"]
+	path = product-preview-card-component
+	url = https://github.com/drangam9/product-preview-card-component
