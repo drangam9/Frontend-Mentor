@@ -7,3 +7,6 @@
 [submodule "product-preview-card-component"]
 	path = product-preview-card-component
 	url = https://github.com/drangam9/product-preview-card-component
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/drangam9/interactive-rating-component
