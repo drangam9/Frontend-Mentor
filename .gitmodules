@@ -10,3 +10,6 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/drangam9/interactive-rating-component
+[submodule "nft-preview-card-component"]
+	path = nft-preview-card-component
+	url = https://github.com/drangam9/nft-preview-card-component
