@@ -13,3 +13,6 @@
 [submodule "nft-preview-card-component"]
 	path = nft-preview-card-component
 	url = https://github.com/drangam9/nft-preview-card-component
+[submodule "order-summary-component"]
+	path = order-summary-component
+	url = https://github.com/drangam9/order-summary-component
