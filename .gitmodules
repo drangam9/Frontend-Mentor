@@ -16,3 +16,6 @@
 [submodule "order-summary-component"]
 	path = order-summary-component
 	url = https://github.com/drangam9/order-summary-component
+[submodule "testimonials-grid-section"]
+	path = testimonials-grid-section
+	url = https://github.com/drangam9/testimonials-grid-section
