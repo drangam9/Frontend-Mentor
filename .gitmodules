@@ -19,3 +19,6 @@
 [submodule "testimonials-grid-section"]
 	path = testimonials-grid-section
 	url = https://github.com/drangam9/testimonials-grid-section
+[submodule "stats-preview-card-component"]
+	path = stats-preview-card-component
+	url = https://github.com/drangam9/stats-preview-card-component
