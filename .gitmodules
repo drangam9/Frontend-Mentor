@@ -22,3 +22,6 @@
 [submodule "stats-preview-card-component"]
 	path = stats-preview-card-component
 	url = https://github.com/drangam9/stats-preview-card-component
+[submodule "age-calculator-app"]
+	path = age-calculator-app
+	url = https://github.com/drangam9/age-calculator-app
